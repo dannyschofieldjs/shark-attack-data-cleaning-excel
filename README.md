@@ -49,21 +49,13 @@ The project was designed to support questions such as:
 8. Standardised Age, Sex and Fatal fields.
 9. checked the processed data using filters and charts.
 
-## Key findings
-
-
-- `[Country]` had the highest number of recorded incidents, with `[number]`.
-- `[Activity]` was the most frequently recorded activity.
-- `[percentage]%` of usable records were classified as fatal.
-- Recorded incidents `[increased/decreased]` between `[year]` and `[year]`.
-
 ## Visualisations
 
-![Incidents by year](images/attacks-by-year.png)
+![Fatal count](images/count-of-fatal-shark-attack.png)
 
-![Top countries](images/attacks-by-country.png)
+![Attacks by gender](images/count-of-sex-shark-attack.png)
 
-![Top activities](images/attacks-by-activity.png)
+![Types of attacks](images/count-of-type-of-shark-attack.png)
 
 ## Limitations
 
