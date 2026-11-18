@@ -14,8 +14,6 @@ suitable for PivotTables and visual analysis.
 
 The project was designed to support questions such as:
 
-- How have reported incidents changed over time?
-- Which countries and locations have the most recorded incidents?
 - Which activities occur most frequently in the records?
 - How do fatal and non-fatal incidents compare?
 
