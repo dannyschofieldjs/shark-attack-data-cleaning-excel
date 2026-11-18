@@ -81,3 +81,13 @@ https://www.kaggle.com/datasets/mysarahmadbhat/shark-attacks
 ## Author
 
 Daniel Schofield
+
+
+## Licence
+
+The original documentation and analysis in this repository are available
+under the MIT License.
+
+The source dataset and guided-project materials remain subject to their
+original owners' licensing terms. The MIT License does not apply to those
+third-party materials.
